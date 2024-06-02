@@ -1,0 +1,4 @@
+### GET request to example server
+POST http://localhost:8082/secrets/renew
+
+###
